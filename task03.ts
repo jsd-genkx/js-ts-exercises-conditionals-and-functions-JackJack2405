@@ -11,3 +11,14 @@ if (password.length < 6){
 }else{
     console.log("Strong");
 }
+
+
+/* const password = "pass1234567";
+const len = password.length;
+if (len > 10) {
+    console.log("This password is strong.");
+} else if (len <= 10 && len > 6){
+    console.log("This password is moderate.");
+} else {
+    console.log("This password is too short.");
+} */
